@@ -1,0 +1,1 @@
+$("#sendSignal").click(function(){        alert('demand a alain de replacer sa voiture');        });
